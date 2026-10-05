@@ -1,6 +1,18 @@
 # Maternal Healthcare Indicator & Patient Cohort Dashboard
 An interactive validation and visual reporting framework designed to evaluate maternal psychological distress scores and track symptom patterns across changing age groups.
 
+## 📊 Analytics Dashboard Preview
+
+### 🔍 KPI Overview (Page 1)
+![Maternal Health KPI Overview](KPI_overview.png)
+
+### 🔮 Expected Forecast (Page 3)
+![Maternal Health Expected Forecast](Expected_forecast.png)
+
+---------------------------------------------------------
+
+
+
 ## Strategic Objective
 Maternal mental health risks frequently go unnoticed due to unorganized data capture channels, preventing healthcare administrative teams from prioritizing resources or deploying specialized screening toolkits to high-risk patient demographics proactively.
 
